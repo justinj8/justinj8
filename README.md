@@ -2,7 +2,7 @@
   <img src="./assets/header.gif" alt="Justin John Header" width="60%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=10&pause=1500&color=35F75B&vCenter=true&width=435&lines=AI+%7C+Data+Science+%26+Engineering+%7C+Machine+Learning+%7C+Algorithmic+Trading)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1500&color=35F75B&vCenter=true&width=800&lines=AI+%7C+Data+Science+%26+Engineering+%7C+Machine+Learning+%7C+Algorithmic+Trading)](https://git.io/typing-svg)
 
   ## Let's Connect!
 [![LinkedIn: Justin John](https://img.shields.io/badge/LinkedIn-Justin%20John-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-john8/ "Connect on LinkedIn")
