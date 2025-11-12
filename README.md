@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.gif" alt="Justin John Header" width="60%">
+  <img src="./assets/header.gif" alt="Justin John Header" width="80%">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1500&color=35F75B&vCenter=true&width=800&lines=AI+%7C+Data+Science+%26+Engineering+%7C+Machine+Learning+%7C+Algorithmic+Trading)](https://git.io/typing-svg)
