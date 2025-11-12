@@ -89,6 +89,3 @@
 </div>
 
 <p align="center">
-
-## Stats & Dev Activity
-![Jobins' GitHub stats](https://github-readme-stats.vercel.app/api?username=JobinJohn24&show_icons=true&theme=tokyonight)
