@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="./assets/header.gif" alt="Jobin John Header" width="100%">
+  <img src="./assets/header.gif" alt="Justin John Header" width="100%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=1900&pause=200&color=FF1449C5&background=550F0700&center=true&vCenter=true&multiline=true&width=1900&height=120&lines=Bioinformatics+%7C+Genomics+%7C+Computational+Physics+%7C+Astrophysics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=10&pause=1500&color=35F75B&vCenter=true&width=435&lines=AI+%7C+Data+Science+%26+Engineering+%7C+Machine+Learning+%7C+Algorithmic+Trading)](https://git.io/typing-svg)
 
   ## Let's Connect!
-[![LinkedIn: Jobin John](https://img.shields.io/badge/LinkedIn-Jobin%20John-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-john-0a5942211/ "Connect on LinkedIn")
-[![Discord: Jobin John](https://img.shields.io/badge/Discord-Jobin%20John-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/HAUnqQsT "Join me on Discord")
-[![Kaggle: Jobin John](https://img.shields.io/badge/Kaggle-Jobin%20John-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/JobinJohn8824 "Check my Kaggle Projects")
-[![Codecademy: Jobin John](https://img.shields.io/badge/Codecademy-Jobin%20John-1F4056?style=flat&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/JobinJohn24 "View my Codecademy Profile")
+[![LinkedIn: Justin John](https://img.shields.io/badge/LinkedIn-Justin%20John-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-john8/ "Connect on LinkedIn")
+[![Portfolio: Justin John](https://img.shields.io/badge/Portfolio-Justin%20John-1F4056?style=flat&logo=porfolio&logoColor=white)](https://justin-john-portfolio.vercel.app/ "View my Portfolio")
 
 ## 💻 Tech Stack
 <div style="display: flex; align-items: flex-start; align: center">
