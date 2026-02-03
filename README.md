@@ -70,7 +70,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://img.shields.io/badge/Sigma-5E4FF3?style=for-the-badge&logoColor=white" width="80" height="48" alt="Sigma Computing" />
-      <br>Sigma Computing
+      <br>Sigma 
     </td>
   </tr>
 </table>
