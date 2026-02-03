@@ -30,7 +30,7 @@
 </table>
 </div>
 
-### Data & Analytics Platforms
+### Data & Analytics
 <div align="center">
 <table align="center">
   <tr>
@@ -71,6 +71,14 @@
     <td align="center" width="96">
         <img src="https://img.shields.io/badge/Sigma-5E4FF3?style=for-the-badge&logoColor=white" width="80" height="48" alt="Sigma Computing" />
       <br>Sigma 
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.shields.io/badge/Fivetran-0073FF?style=for-the-badge&logo=fivetran&logoColor=white" width="80" height="48" alt="Fivetran" />
+      <br>Fivetran
+    </td>
+    <td align="center" width="96">
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" width="80" height="48" alt="Airflow" />
+      <br>Airflow
     </td>
   </tr>
 </table>
@@ -169,6 +177,11 @@
     <td align="center" width="96">
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" width="80" height="48" alt="Jira" />
       <br>Jira
+    </td>
+    </td>
+    <td align="center" width="96">
+       <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" width="80" height="48" alt="Google Antigravity" />
+     <br>Google Antigravity
     </td>
   </tr>
 </table>
